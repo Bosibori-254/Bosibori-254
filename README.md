@@ -15,7 +15,7 @@
 🌺 Building predictive models that make a difference  
 💝 Open to collaborating on **ML projects** and **data visualization**  
 🦄 Ask me about **Python, R, SQL, and data storytelling**  
-📧 Reach me at: **your.email@example.com**  
+📧 Reach me at: **dianabosibori640@gmail.com**  
 🎀 Fun fact: **I can find patterns in data and the perfect shade of lipstick!**  
 
 ## 💖 Tech Stack & Tools
