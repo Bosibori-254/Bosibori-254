@@ -1,4 +1,4 @@
-# Hi there, lovely! 💕 I'm [Your Name]
+# Hi there, lovely! 💕 I'm Diana
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&color=FF69B4&center=true&width=600&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%92%96;Always+Exploring+Data+%E2%9C%A8" alt="Typing SVG" />
@@ -54,68 +54,24 @@
 ## 💝 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff91a4&text_color=ffffff" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bosibori-254&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff91a4&text_color=ffffff" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bosibori-254&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff" alt="Top Languages" height="180">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&stroke=ff69b4&ring=ff91a4&fire=ff69b4&currStreakLabel=ff91a4" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bosibori-254&theme=radical&hide_border=true&background=0d1117&stroke=ff69b4&ring=ff91a4&fire=ff69b4&currStreakLabel=ff91a4" alt="GitHub Streak" />
 </div>
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&title=Stars,Followers,Commits,PullRequest,Issues" alt="GitHub Trophies">
-</div>
-
-## 🌟 Featured Data Science Projects
-
-### 💎 [Customer Segmentation Analysis](https://github.com/username/customer-segmentation)
-Beautiful clustering analysis using K-means to segment customers based on purchasing behavior. Created stunning visualizations that helped increase marketing ROI by 25%! ✨
-
-**Tech Stack:** `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
-
-### 🌺 [Sales Forecasting Model](https://github.com/username/sales-forecasting)
-Time series forecasting model with LSTM networks to predict quarterly sales. The model achieved 94% accuracy and helped the business plan inventory better! 💫
-
-**Tech Stack:** `Python` `TensorFlow` `Keras` `Pandas` `Plotly`
-
-### 🦋 [Sentiment Analysis Dashboard](https://github.com/username/sentiment-dashboard)
-Real-time sentiment analysis of social media data with a gorgeous interactive dashboard. Tracks brand sentiment across multiple platforms with elegant visualizations! 🎨
-
-**Tech Stack:** `Python` `NLTK` `Streamlit` `Plotly Dash` `Twitter API`
-
-### 🌸 [Recommendation System](https://github.com/username/recommendation-engine)
-Built a collaborative filtering recommendation system for an e-commerce platform. Increased user engagement by 40% with personalized product suggestions! 💖
-
-**Tech Stack:** `Python` `Surprise` `Pandas` `Flask` `AWS`
-
-## 📚 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- 💕 [How to Make Your Data Visualizations More Beautiful](https://yourblog.com/beautiful-dataviz)
-- ✨ [My Journey into Machine Learning: Tips for Beginners](https://yourblog.com/ml-journey)
-- 🌟 [5 Python Libraries Every Data Scientist Should Know](https://yourblog.com/python-libraries)
-- 🦄 [Creating Stunning Dashboards with Plotly](https://yourblog.com/plotly-dashboards)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎯 Current Learning Goals
-
-- 🔬 Deep Learning with Transformers
-- 🎨 Advanced Data Visualization Techniques  
-- ☁️ MLOps and Model Deployment
-- 📱 Building ML-powered mobile apps
-- 🧠 Natural Language Processing
 
 ## 💕 Connect with Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/-Twitter-FF91A4?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-username)
-[![Medium](https://img.shields.io/badge/-Medium-FF1493?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-username)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diana-bosibori/)
+[![X](https://img.shields.io/badge/-X-FF91A4?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@bosibori68569)
+[![TikTok](https://img.shields.io/badge/-TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dianabosibor3)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B9D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
 
 </div>
 
@@ -128,14 +84,6 @@ Built a collaborative filtering recommendation system for an e-commerce platform
 - 📖 Currently reading: "The Art of Statistics" & "Weapons of Math Destruction"
 - 🎨 I paint abstract art inspired by data patterns
 
-## 🌈 Weekly Development Breakdown
-
-```text
-Python       ████████████████████░   85.2%
-R            ██████░░░░░░░░░░░░░░░   08.1%
-SQL          ███░░░░░░░░░░░░░░░░░░   04.7%
-JavaScript   ██░░░░░░░░░░░░░░░░░░░   02.0%
-```
 
 ---
 
@@ -144,7 +92,7 @@ JavaScript   ██░░░░░░░░░░░░░░░░░░░   0
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Bosibori-254&color=ff69b4&style=for-the-badge&label=Profile+Views" alt="Profile Views">
   
   ⭐ **Don't forget to star my repositories if you find them helpful!** ⭐
 </div>
