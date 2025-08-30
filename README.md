@@ -70,7 +70,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diana-bosibori/)
 [![X](https://img.shields.io/badge/-X-FF91A4?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@bosibori68569)
 [![TikTok](https://img.shields.io/badge/-TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dianabosibor3)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B9D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B9D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dianabosibori.netlify.app/)
 
 
 </div>
